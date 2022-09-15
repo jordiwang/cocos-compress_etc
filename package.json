@@ -1,0 +1,25 @@
+{
+  "name": "cocos-compress_etc",
+  "version": "1.0.0",
+  "description": "基于 Node.js 的 Cocos Creator 压缩纹理构建工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordiwang/cocos-compress_etc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordiwang/cocos-compress_etc/issues"
+  },
+  "homepage": "https://github.com/jordiwang/cocos-compress_etc#readme",
+  "dependencies": {
+    "log4js": "6.6.1"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
